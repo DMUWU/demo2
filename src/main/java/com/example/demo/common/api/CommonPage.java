@@ -6,7 +6,7 @@ import java.util.List;
 
 /**
  * 分页数据封装类
- * Created by xitian on 2019/4/19.
+ * Created by xitian on 2021/5/27.
  */
 public class CommonPage<T> {
     private Integer pageNum;

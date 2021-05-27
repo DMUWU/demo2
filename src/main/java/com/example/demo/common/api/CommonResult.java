@@ -2,7 +2,7 @@ package com.example.demo.common.api;
 
 /**
  * 通用返回对象
- * Created by xitian on 2019/4/19.
+ * Created by xitian on 2021/5/27.
  */
 public class CommonResult<T> {
     private long code;

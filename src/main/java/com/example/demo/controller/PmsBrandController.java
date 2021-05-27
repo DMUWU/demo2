@@ -19,7 +19,7 @@ import java.util.List;
 
 /**
  * 品牌管理Controller
- * Created by xitian on 2019/4/19.
+ * Created by xitian on 2021/5/27.
  */
 @Api(tags = "PmsBrandController", description = "商品品牌管理")
 @Controller

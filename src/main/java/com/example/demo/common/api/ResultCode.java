@@ -2,7 +2,7 @@ package com.example.demo.common.api;
 
 /**
  * 枚举了一些常用API操作码
- * Created by xitian on 2019/4/19.
+ * Created by xitian on 2021/5/27.
  */
 public enum ResultCode implements IErrorCode {
     SUCCESS(200, "操作成功"),

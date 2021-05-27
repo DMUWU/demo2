@@ -12,7 +12,7 @@ import java.util.Properties;
 
 /**
  * 自定义注释生成器
- * Created by xitian on 2018/4/26.
+ * Created by xitian on 2021/5/27.
  */
 public class CommentGenerator extends DefaultCommentGenerator {
     private boolean addRemarkComments = false;
